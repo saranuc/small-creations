@@ -1,0 +1,5 @@
+a,b=int(input("enter the base and exponent")). split()
+a=int(a)
+b=int(b)
+print(power(a,b))
+print(better)
